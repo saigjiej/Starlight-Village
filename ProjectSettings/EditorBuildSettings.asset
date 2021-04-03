@@ -1,0 +1,923 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Prolog/Main.unity
+    guid: d129d1831ee922044a15c44e67aedabe
+  - enabled: 1
+    path: Assets/Scenes/Prolog/Prolog1.unity
+    guid: 4eafb277c0fc44e4699591c426f949ea
+  - enabled: 1
+    path: Assets/Scenes/Prolog/Prolog2.unity
+    guid: 65a55f8e5d27564429f4e5f329392b2e
+  - enabled: 1
+    path: Assets/Scenes/Prolog/PrologNo.unity
+    guid: 184b11a6ad5766e46b3e7f056d2cb84b
+  - enabled: 1
+    path: Assets/Scenes/Prolog/PrologNo2.unity
+    guid: 149f83ac481f7e54a8ce423d55c4fc54
+  - enabled: 1
+    path: Assets/Scenes/Prolog/PrologYes.unity
+    guid: 4b8993113337d9e459d3007efa09dd1d
+  - enabled: 1
+    path: Assets/Scenes/Prolog/Prolog3.unity
+    guid: a169bc3e2dec38a4e91c6bf8f642aefb
+  - enabled: 1
+    path: Assets/Scenes/Prolog/StartProlog.unity
+    guid: 30a1f3758fec56c47a685b530ae1a18f
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: efc44522bc6f6bb4797614fbf7542e0f
+  - enabled: 1
+    path: Assets/Scenes/GameRule.unity
+    guid: b56e2aded2625d142b61a024c2907c90
+  - enabled: 1
+    path: Assets/Scenes/calendar.unity
+    guid: c6bbd3c018e762d40823a85499d37d03
+  - enabled: 1
+    path: Assets/Scenes/Gamemap1.unity
+    guid: 024594c30a91b5d4b8b8dd140ebf08c4
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-1.unity
+    guid: e4b1777ba51a7e448bd93425670a5547
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-2.unity
+    guid: 8fb172553e3dba84c8af7d40e9bd3e12
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-3.unity
+    guid: 55a9385b29d76684392269d6f6dfa71e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-4.unity
+    guid: 316ea08c013a58f4dab74a3075be7a13
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-5.unity
+    guid: 566e22cca63555a4a8a2dd9239bd195f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-6.unity
+    guid: ea7d2308a3628d44ba5a9952ad1a0cac
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest1-7.unity
+    guid: ad76c4fd3228de14a874e20f12749b8c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Quest2-4.unity
+    guid: 4cb8de8910088054d8b6a6b510115a7d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Menu1.unity
+    guid: f8493460805f2de4997b510052b0dda1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Hot.unity
+    guid: 2d69b685f9054e243817154eed5495b6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest3-1.unity
+    guid: fd4eb7eca558ace40829b65a20336ef4
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest3-2.unity
+    guid: 3a81b3b71b4298043a11f79bffbebfee
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest3-3.unity
+    guid: 56a92ad73e49d824cb10fe3b97bee63b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest3-4.unity
+    guid: 879ea553a812c8544b1d79365bb9937d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest3-5.unity
+    guid: 52e3bc5a6c33f9647ba14c65eea1d7fc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest3-6.unity
+    guid: e756bc01158bff94aab6a9e54be6c0f0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-1.unity
+    guid: a43d4e51eff4dfd4e8dc5f6dd5840192
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-2.unity
+    guid: e0053218b4661b547b85a18593a64916
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-3.unity
+    guid: d1cf2e4edb3d6c945aedfba514426c32
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-4.unity
+    guid: 51d918d0488af3045b2887caa5e34086
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-5.unity
+    guid: 532e8b85dbd90b043839b8998e8a6282
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-6.unity
+    guid: 2094baea5cb7bff4f83415c267b9221f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-7.unity
+    guid: d3c7f5789e6aa1349badff8f47e6c2f9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-8.unity
+    guid: 2150316f3f09ec543aa0686aeb69fcdb
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest4-9.unity
+    guid: a762380929345b94a959bc8f48f1db10
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Cafe1-1.unity
+    guid: ef9a3dcec415fb84f8c1498c028708fd
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Cafe1-2.unity
+    guid: 1ca118eb886266f4a8a151bc691446d0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Cafe1-3.unity
+    guid: 7390dd278e95c464ab1b0fca0df652ae
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Cafe1-4.unity
+    guid: 3ec3995def2ba7b44b1ed2fbee3840c1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Boardgame1-1.unity
+    guid: 5f706a0de141d1040bb50a689550a1df
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Boardgame1-2.unity
+    guid: e2fff4661e128444b911c3a674afd42e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Glasses1-1.unity
+    guid: aad15c10bc6aefc4b97fe9057726b061
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Glasses1-2.unity
+    guid: 574d672c8b9b1394fbb6518531d65a9b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Glasses1-3.unity
+    guid: 373746ab9eb2c8f488ca131874413f8b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Glasses1-4.unity
+    guid: a53a10c54220afb4fbca716076d25aed
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Glasses1-5.unity
+    guid: 8e72a4b2fa876d94bb135840834cc6a6
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ramen1-1.unity
+    guid: b67fc617696bd9d44b08a06b2e60fa69
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ramen1-2.unity
+    guid: 652fd0a5434efe044aece939371e4793
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ramen1-3.unity
+    guid: a9233900ec476074c88c8fbe907e5216
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ramen1-4.unity
+    guid: 48982be6515a8e24ab3e133fa043b2ec
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ramen1-5.unity
+    guid: 01cc0d51b843add4692ba58ed33f6097
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ricecake1-1.unity
+    guid: 8fc4ba9c5939c594ebbd1950ed12857b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Ricecake1-2.unity
+    guid: f8de822f8c0f19e488a6a3b03617f3fc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Spicyrips1-1.unity
+    guid: 1a9aa2ba43e2da441a0286547cb3aaa0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Spicyrips1-2.unity
+    guid: d4d87abe0c4eba54ea517a5ae7f384a3
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Stew1-1.unity
+    guid: ed79a5869756f3f4495cdb7a57b459e0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Mon/Quest.unity
+    guid: 54335b2ba05d0a04c99206dce0f61ebb
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Boardgame2-1.unity
+    guid: 3b21d82e5b546794d8b6b423cdc46598
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Cafe.unity
+    guid: 18fb9acb494ab1b4696dba45fab383d9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Glasses2-1.unity
+    guid: bef92e03ee7d83d4385ed5bfb823f8c3
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Quest.unity
+    guid: ba4d57b8f60187d46825aaaf241ba463
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-1.unity
+    guid: 29396d84d71d79e4fb48fd6bd2257c1f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-2.unity
+    guid: 0d3a0cf3d12c9864cbbe5c38e776b937
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-3.unity
+    guid: 1471c25358b127e4795410ee476909ca
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-4.unity
+    guid: 0d8dee2d0f3b62b43aca1d7debe4c69a
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-5.unity
+    guid: 953640a456fa77240bf8bf7456f321cc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-6.unity
+    guid: 49e38d17d7b35f1409d6bbb82fb6b0b1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ramen2-7.unity
+    guid: 05956b529e7eb3f458b3e3c038a0082e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Ricecake2-1.unity
+    guid: 887a1dcf666c89146ac854bae55edd02
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Spicyrips2-1.unity
+    guid: 66aca9d5b36fefd44a2abddd0e5ca821
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Stew2-1.unity
+    guid: 60c2089c5a48671478b9f8acf7bfeb76
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Surprise.unity
+    guid: bf01c32b8e235744f90fab88881e45f9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Tue/Surprise2.unity
+    guid: c995143ebcc2645499f96dbac3f94e42
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-1.unity
+    guid: ea0daa5e390be964586f966b93b9d37e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-2.unity
+    guid: ae78874ca6e1eb8408eac9423125ffbd
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-4.unity
+    guid: 871b858b36a7e574c86e2f0f50b45a8f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-6-1.unity
+    guid: b9135139e70aaf746831d8199f338e99
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-6-2.unity
+    guid: 67e5780cc8de7da48949639d7e0a86b1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-7-2.unity
+    guid: 31d069f319d7fc3459b088b7dc3041b7
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-7-3.unity
+    guid: a2939431a113a8c43a596cbd1acd5a05
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-8.unity
+    guid: 558e1bcce77de824f8d857cd8e91364f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-10.unity
+    guid: 8827d44ee59fbe540af28d53f22e3fa8
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-11.unity
+    guid: d8b6bae20f286a24ebef8fe502c62ac3
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-11-2.unity
+    guid: 114f70c8e5107e644961053c974d7047
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-11-3.unity
+    guid: 86c48efb56c2ced408194f79a94e8272
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-12-1.unity
+    guid: 962220b09fa12e84a88fdb7832838911
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-12-2.unity
+    guid: 49b7ea677ef8737429a76222fc6e788a
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-12-3.unity
+    guid: 0055506d50ad56b4d9bd188a88a29f97
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-8-2.unity
+    guid: a912d46391550664a8d4628d964bb616
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-8-3.unity
+    guid: deb9176ac2adc3b408718e5528853df0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Spicyrips.unity
+    guid: 6999fa897ea04b443a6e6e7da9710104
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Boardgame.unity
+    guid: 96fee79541195874a8edfc13e736cfbc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Cafe.unity
+    guid: d16967c53792ed9499f1b385bc5296dd
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Ricecake.unity
+    guid: adcb22fb17709c742ac92b7d4fa7187e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-10-2.unity
+    guid: eaf2b3a734ab48d469aafb712bb21dc1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-10-3.unity
+    guid: c473c1fa0b8a24944ad0e2f287b6ffe9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-3.unity
+    guid: 447843d834a70bf4b8fea2c31cbaf7f9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Ramen.unity
+    guid: d31cbbf27c4ab284794d6e5e06091cb8
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Quest.unity
+    guid: 27cffb1164844a543a616e8af960a8ce
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-9-2.unity
+    guid: 02437eb554dc704418f90aadbfdeac5d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-9-3.unity
+    guid: 82bc4f164c8624f42946f634de2dae71
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-7-1.unity
+    guid: 04cd3a59c7300c74aa422157de50f722
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Glasses3-9.unity
+    guid: 16bc42187832eff44a877ab56991b808
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Wed/Stew.unity
+    guid: ccb21a113c6b8f042b963a735dc842d0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Quest.unity
+    guid: a511bbad93cda8a44bf5f13122bd1ec3
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-1.unity
+    guid: 54dbab4c8b80d074e88f9c6db8f1735f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-2.unity
+    guid: ece81fa35aeb2204d83f0a6df674624e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-3.unity
+    guid: 3c5925e0dd56fb849a42bba1a041fb6e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-4.unity
+    guid: f5a93c2da92a6524a9c9078d93f13abe
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-5.unity
+    guid: a5247298a1ca3ac48937018ee838a56c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-6.unity
+    guid: 47c3f7dc34c67f04e814ef27092812d2
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-7.unity
+    guid: 3880cb1be7bc1434fa1cea00dfa51d80
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-8.unity
+    guid: aa911f12cc9481240bd009f2976048e1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-9.unity
+    guid: 5459d4c0e556dfc4ea489636c681a7a5
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-10-1.unity
+    guid: 0a9f2f243f89f104ba09979eeec584af
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Spicyrips4-10-2.unity
+    guid: 9f564323c526cae4dae7f451fae05d0b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/BoardGame4-1.unity
+    guid: ff3e5b793ffd7f442b82f8391d029207
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Cafe4-1.unity
+    guid: 91e5773cba5ff214e8f6d1c4d2ce06dc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Glasses4-1.unity
+    guid: 20b66cab443985948b2a97cb619465a5
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Ramen4-1.unity
+    guid: d4072c388761ebf4596b26f557c9e55f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Ricecake4-1.unity
+    guid: 3d3e342305c49db4b9f2aa3db123f988
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Thu/Stew4-1.unity
+    guid: e68b08fb3b532a64b92c4358ab8ddee8
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/1Game.unity
+    guid: 02799e4afba595845a158b6fff2a2405
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/2Game.unity
+    guid: 1251956567f2c824bb3fb82a46709156
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/3Game.unity
+    guid: bca7b3b1a750dda4f964527a020f8dfc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/4Game.unity
+    guid: 644d72e02c0078640add29a951c5d06b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/5Game.unity
+    guid: a04225aeaf31ba349884c2e396a94bfd
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/1-1Game.unity
+    guid: 89621bdee8ebda743a5045421a955ff3
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/WrongGame.unity
+    guid: 7ef49d403fb6f65468fc6c6e5a79740c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/6Game.unity
+    guid: e66e2d14b7f4d1245beb5204db151e5e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Spicyrips5-1.unity
+    guid: 89fa95db67ec61a4c970f1a9a6de9b84
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Glasses5-1.unity
+    guid: 91a668632c58dc942be8820cd742a3f4
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ramen5-1.unity
+    guid: b323fa00f3e03b54a9d74f613a5540d4
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Stew5-1.unity
+    guid: a8ad31bfcbfcff54fbc8c0d4587875d0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-1.unity
+    guid: 9b72d3468ff15304c811f41022eac45c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-2.unity
+    guid: 48c72e2955a57d746972489b1740c80e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-3.unity
+    guid: f003d4b033abfdd4a8bef2e8565986a1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-4.unity
+    guid: 2bf59e9498c00da4fa7a75495858b58f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-5.unity
+    guid: 989832792949414439fc5a6df29a702b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-6.unity
+    guid: 8984605e58e0e62428d9027766f302d9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-7.unity
+    guid: 0c3647a8dcca08343af8ad0476bb65cc
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Ricecake5-8.unity
+    guid: 6a439596117b60244a7ce2c4ce58a7c8
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-1.unity
+    guid: 07f7002b3d0e9524ebe72019252563f2
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-2.unity
+    guid: dce1f60a5c037f146bf48d8f14d660d0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-3.unity
+    guid: f9e6df6b318849e42bdb518c2d183de1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-4.unity
+    guid: e20ec957d2176bd458df52224eaa347f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-5.unity
+    guid: f59723159a611cf4b829bc42666a5b82
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-6.unity
+    guid: cda72021a858e8c44b3bca357d15de50
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-7.unity
+    guid: 2af02e72137a5fe429ff4efbe8504117
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-8.unity
+    guid: fc8e5093dd5d5884f86295595b04c5ec
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-9.unity
+    guid: 0ad992cdac9584349a1b1003674df080
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-10.unity
+    guid: 5814f0da67f8e77479749c46d46d5754
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-11.unity
+    guid: 425cc2c71f6df934f96e2a90b6077b9e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-12.unity
+    guid: 55d296b22e0bc5045add5e68ef027867
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-13.unity
+    guid: a92321df072c57a49b4d98c285e5ac1b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-14.unity
+    guid: b6360e6e7169f504fb9584310dff0630
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-15.unity
+    guid: 26ec047dedbd2f14498239aa3cc0d8c6
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-16.unity
+    guid: 30257eb67c8127d449387f14ec8f19e4
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgame5-17.unity
+    guid: 091563a4ec7e75e4ab60880172aaef43
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-7.unity
+    guid: fedf4a91ae7c41c4fabf67ab439e5b42
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-8.unity
+    guid: ffe36efcf6763ff44ba9e98c303de442
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-9.unity
+    guid: e4d978744d5ea0c428fef26618a5c271
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-10.unity
+    guid: f58ec9b6a7568834c883908407e393ef
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-11.unity
+    guid: 2733c31158820d14a8407ea6b94c77f7
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-12.unity
+    guid: dcf87d7151c752a4b8b24c16f42dd129
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-13.unity
+    guid: f35be759c2613e843b94cfd229bd376e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-14.unity
+    guid: 1002320c4c8b83346a28c25fef463e4e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Boardgamew5-15.unity
+    guid: ceb1fabbe992f4548aa59ab86ad4f023
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-1.unity
+    guid: b8a7204005daee04f80c16490f1f2fc7
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-2.unity
+    guid: bfbca82465343744db0cee277f0b3153
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-3.unity
+    guid: 4fd1af39bfeaa984f8a588c3945dc6ac
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-4.unity
+    guid: 31820f730fd0cd047b83ee340cabfc2c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-5.unity
+    guid: da7e3e8912f41af4693ca08f1249dcd0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-6.unity
+    guid: ad7e53f9a99f5384e899fe809393ee1c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-7.unity
+    guid: 09a6f74c25b5a4849834471128ba91df
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-8.unity
+    guid: d0d584f0960358c48ab137b575a6bc7b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-9.unity
+    guid: 4e6ea3ef02fa51e4dae6976ef592c4f6
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-10.unity
+    guid: 5f9d37e1e6822e0429f29a56504cbcce
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-11.unity
+    guid: 3df60b72a69e1fe43be7a44f93bd4b8c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-11-2.unity
+    guid: 3c84323d78ef09745a9fc730f7c3ed34
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-12.unity
+    guid: b52228806c8fa2749ac37a3731ed21ad
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-12-2.unity
+    guid: 7ba47f260a582a144a2de916709caa42
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-12-3.unity
+    guid: afb26ee15097087418b81613fbf03658
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-13.unity
+    guid: 54537337bfd03e34b9acac73a9ff8602
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/Cafe5-14.unity
+    guid: 44e30c0498fadcd439cfa69b31fc6323
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Fri/FinishQuest.unity
+    guid: 61f5e6e6194aa054c9f4fc4aa127549c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Quest1.unity
+    guid: caf35b3e921f688429534871bcd9ec7f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/ServeQuest.unity
+    guid: 35cf9b113488def45b06411036c25763
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Boardgame6-1.unity
+    guid: 76e2e4c82397eec438828234ee397940
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-1.unity
+    guid: b92d525c913435f42962f7eb08240380
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-2.unity
+    guid: f626ae8cea6fd97498bece70eb589175
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-3.unity
+    guid: cc9e633e864815c4a835b483b8a9a347
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-4.unity
+    guid: b01a2e38a6156c547a6c6d153684455f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-5.unity
+    guid: 081b3f9437525364497c8f6e22ff5e48
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-6-1.unity
+    guid: 6c8863617f637b64fa7bea2d854d5a25
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-6-2.unity
+    guid: 3c3b3a7eb6f1186488627ee5b2d6a969
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-6-3.unity
+    guid: f3fa93f00fa9e31488db7fc5640279b3
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Cafe6-7.unity
+    guid: fe9b6b43de7f8ef4fba6210c7dd98e56
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Glasses6-1.unity
+    guid: d328836c4660d714cb65d468b92beb49
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-1.unity
+    guid: 9ce5aa1647e679a4fb2ed6f6e4ca3e45
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-2.unity
+    guid: f4c4d055aab76f84f837da7ee86c10c1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-3.unity
+    guid: 10998744a41a6d54fb3f7fd817e0f6c6
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-4.unity
+    guid: c142daacb7e8d3b41ad16e2b5c1905ec
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-5.unity
+    guid: 59191749ec38f55418c51a6310a3a7a0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-6.unity
+    guid: 983b174d149d75941bcb40c7070fc53b
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ramen6-7.unity
+    guid: dc368e21ec3a85a4dbe3c429e2705b0d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-1.unity
+    guid: d1795f1b9c24cfe4dbe55f05af718f75
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-2.unity
+    guid: 3d906e48ed24acd48890be16e193239d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-3.unity
+    guid: f903103f642a0ae4781599bb75bdbff9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-4.unity
+    guid: 9a9c943cb5d8066468c4b96ce26ab662
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-5.unity
+    guid: 9993483893c56db44a793fc8d9af5cae
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-6.unity
+    guid: cd032513b444c614e91c5a3fb781976d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Ricecake6-7.unity
+    guid: 495c6428613589546a0dd300f2ced0c9
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Spicyrips6-1.unity
+    guid: 66dd46bce73c32b4c857e2b8d18b622e
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Spicyrips6-2.unity
+    guid: 70a5b06ddfe530d4d9f219e1fa1fe9da
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Spicyrips6-3.unity
+    guid: 9395075ec344a6742bc69c32375f6534
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Spicyrips6-4.unity
+    guid: 07a9a5a377ce1ef45ba8386d69025944
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Spicyrips6-5.unity
+    guid: 1f437a1a5ea17da46b31efb086c28904
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-1.unity
+    guid: c865f060526a8c04dbd420073a865024
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-2.unity
+    guid: 0e8668f3d3458374590f94892bb6912d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-3.unity
+    guid: bcd5415ff1c867b48b9789046d7cc872
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-4.unity
+    guid: 9df3335f91d85b541931fbd93ba8e7e6
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-5.unity
+    guid: 712b822ab6137e44f8b8a038ad9ea912
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-6.unity
+    guid: eb10beb0a4f4c2849820a7f6a1521253
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-7.unity
+    guid: 92b4f97e3c5ecb84aa41a3d398870e5a
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-8.unity
+    guid: d9fae48c7f9ebb547908d2c9a5a670f5
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/Stew6-9.unity
+    guid: 1725f36bc549fca4394b4ce5d2ed8e4a
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/FinishQuest.unity
+    guid: 9ecf3d2ff36231e40bbc85ccfffc0b18
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sat/FinishQuest2.unity
+    guid: 2b1507dda0ee38c4184d08206549d0eb
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Quest.unity
+    guid: feb2f544e2311414fb1ff1300eabaff6
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-1.unity
+    guid: a2419bc7b22048f41a5d6dfb8f4afced
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-2.unity
+    guid: eb5ea7b7072fc9b42a0e34dc170be54a
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-3.unity
+    guid: e04ca1ef3f92a194db5cceae523bb659
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-4.unity
+    guid: e61584066125dea42ac0f531d595748f
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-5.unity
+    guid: 3db1276c17f501a45bdf6f221d9060ed
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-6.unity
+    guid: c9b5861fa2bd9e4419a330357c6d7426
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-7.unity
+    guid: 41e3bd3d872b75d4bb4d343e611d706c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-8.unity
+    guid: 8803d28f6dc78e64eb1c2c44f063a609
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-9.unity
+    guid: 0f1ec7c537289df4ba20a02893efb29a
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-9-2.unity
+    guid: e908b194ad4f7ac4d821e3828551180d
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-9-3.unity
+    guid: 62d061dba4f26484e963788ee5b636d1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-10.unity
+    guid: 27991baf280a382458dde2d9e3a0ceb1
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Glasses7-11.unity
+    guid: 13b8023eddcaaf144a04c2d2157be00c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/FinishQuest.unity
+    guid: 830ff407317f3df4287cbbcaf2470687
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Boardgame7-1.unity
+    guid: aff12ca72d6db904f8c7abe740e92ee0
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Cafe7-1.unity
+    guid: fc68aad4dd4bf1042a8cb7886900e96c
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Ramen7-1.unity
+    guid: 6865b1398a547b04ba091b278c39ea45
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Ricecake7-1.unity
+    guid: dc80dfaab62c15f468f6249c77305988
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Spicyrips7-1.unity
+    guid: 331c7097f31c9904395cd7a86a2febf4
+  - enabled: 1
+    path: Assets/Scenes/Game/Quest_Sun/Stew7-1.unity
+    guid: 0c775bf8cfe160145bcd5ce1ad8d41bb
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending.unity
+    guid: 8380745bcce4fa44f8fbb296991b0c19
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending2.unity
+    guid: a67e5bbcb15e66c469f1babac28a3d02
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending3.unity
+    guid: a7a21e591a66c8a49a7dd614727866e0
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending4.unity
+    guid: 5ac16dba607b4c344b0a3a04bc3e4820
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending5.unity
+    guid: 8b71fb6f0d8c3e44aa67bb4e4f8f4fb4
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending6.unity
+    guid: e0f92243d2a5e9641ab6e17c4021ffa9
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending6-1.unity
+    guid: c94204ca1defc6b469dfde7bc226edc5
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending7.unity
+    guid: f12996dfd266d6c4bad570f908d94028
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending8.unity
+    guid: 30e8c560d8e2fa143a082f5c5161f7f6
+  - enabled: 1
+    path: Assets/Scenes/Ending/Ending10.unity
+    guid: 3183588008ddbbb4c9482a5f86721cbf
+  - enabled: 1
+    path: Assets/Scenes/Map/Map1.unity
+    guid: 860990a726a4f3746beb4c008630619f
+  - enabled: 1
+    path: Assets/Scenes/Map/Map2.unity
+    guid: 527f0ac4e6ae8b2409223e4022aae99c
+  - enabled: 1
+    path: Assets/Scenes/Map/Map3.unity
+    guid: acb17cb89bc3a674d9a188f56f801734
+  - enabled: 1
+    path: Assets/Scenes/Map/Map4.unity
+    guid: 295d0a0c1e4c5e64e81685f0b1def3bf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Map/Map5.unity
+    guid: d130b33db09672546b8c5dee23eb8a89
+  - enabled: 1
+    path: Assets/Scenes/Map/Map6.unity
+    guid: f96659717754e014ab10b6dae6511dbb
+  - enabled: 1
+    path: Assets/Scenes/Map/Map7.unity
+    guid: 26fdf47b25540bf4a8360608cad567be
+  m_configObjects: {}
