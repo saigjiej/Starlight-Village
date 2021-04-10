@@ -931,7 +931,6 @@ GameObject:
   - component: {fileID: 1938327569}
   - component: {fileID: 1938327568}
   - component: {fileID: 1938327571}
-  - component: {fileID: 1938327572}
   m_Layer: 5
   m_Name: next
   m_TagString: Untagged
@@ -1003,9 +1002,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1938327572}
-        m_TargetAssemblyTypeName: StartProlog, Assembly-CSharp
-        m_MethodName: Click
+      - m_Target: {fileID: 1938327571}
+        m_TargetAssemblyTypeName: Prolog3, Assembly-CSharp
+        m_MethodName: Click3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1060,20 +1059,8 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1938327566}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50945bcf8e869d84fad7d918be765c1f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1938327572
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1938327566}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b714c56ba7f72f74fa1a56dc0c49ea1a, type: 3}
+  m_Script: {fileID: 11500000, guid: 4c8f68955435cc74090b57e45e2efd6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

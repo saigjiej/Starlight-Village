@@ -467,6 +467,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -497,8 +498,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1018365608}
-        m_TargetAssemblyTypeName: FriQuest, Assembly-CSharp
-        m_MethodName: c14
+        m_TargetAssemblyTypeName: FinishQuest5, Assembly-CSharp
+        m_MethodName: Click3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -555,7 +556,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1018365603}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 012aeb00d06715e4e94085c77962d497, type: 3}
+  m_Script: {fileID: 11500000, guid: dd3db4f5217a6bf448c9f48581bb9867, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1108734626
@@ -928,6 +929,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1747633447
 Canvas:
   m_ObjectHideFlags: 0

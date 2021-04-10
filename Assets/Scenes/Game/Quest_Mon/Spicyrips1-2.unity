@@ -484,6 +484,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &771992287
 Canvas:
   m_ObjectHideFlags: 0
@@ -892,6 +893,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -922,8 +924,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2058559084}
-        m_TargetAssemblyTypeName: MonQuest, Assembly-CSharp
-        m_MethodName: sp2
+        m_TargetAssemblyTypeName: Map1, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -980,6 +982,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2058559079}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 693577740388fb8469cd4a7d13ebc56e, type: 3}
+  m_Script: {fileID: 11500000, guid: 0d5e958709a02694ea3bb2eb2dccaa01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

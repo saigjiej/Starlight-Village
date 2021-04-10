@@ -64,7 +64,7 @@ public class SunQuest : MonoBehaviour
     }
     public void g11()
     {
-        SceneManager.LoadScene("FinishQuest");
+        SceneManager.LoadScene("FinishQuest7");
     }
     public void fail()
     {

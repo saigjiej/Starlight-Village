@@ -436,8 +436,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 751905010}
-        m_TargetAssemblyTypeName: Ending, Assembly-CSharp
-        m_MethodName: Ending2
+        m_TargetAssemblyTypeName: final, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -494,7 +494,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 751905005}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5a68a097a56c7945b5959cd994ce143, type: 3}
+  m_Script: {fileID: 11500000, guid: dac369941875b0b4a975e33a449db5f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &753421478

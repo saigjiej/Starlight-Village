@@ -570,7 +570,6 @@ GameObject:
   - component: {fileID: 1525146170}
   - component: {fileID: 1525146169}
   - component: {fileID: 1525146172}
-  - component: {fileID: 1525146173}
   m_Layer: 5
   m_Name: next
   m_TagString: Untagged
@@ -611,6 +610,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -640,8 +640,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1525146173}
-        m_TargetAssemblyTypeName: TueQuest, Assembly-CSharp
+      - m_Target: {fileID: 1525146172}
+        m_TargetAssemblyTypeName: SatQuest, Assembly-CSharp
         m_MethodName: ra2
         m_Mode: 1
         m_Arguments:
@@ -699,19 +699,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1525146167}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5a21d3d9dd53b74eae68ba4a936da6f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1525146173
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1525146167}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c7348fe37ed04c6468a6446b19a57267, type: 3}
+  m_Script: {fileID: 11500000, guid: fd293de2bfa40e04f89cd570725e3a13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1747633444
@@ -772,6 +760,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1747633447
 Canvas:
   m_ObjectHideFlags: 0

@@ -18,6 +18,6 @@ public class Prolog3 : MonoBehaviour
     }
     public void Click3()
     {
-        SceneManager.LoadScene("Map1");
+        SceneManager.LoadScene("Quest");
     }
 }

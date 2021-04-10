@@ -486,6 +486,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &771992287
 Canvas:
   m_ObjectHideFlags: 0
@@ -853,6 +854,7 @@ GameObject:
   - component: {fileID: 2058559082}
   - component: {fileID: 2058559081}
   - component: {fileID: 2058559084}
+  - component: {fileID: 2058559085}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -894,6 +896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -924,8 +927,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2058559084}
-        m_TargetAssemblyTypeName: MonQuest, Assembly-CSharp
-        m_MethodName: g5
+        m_TargetAssemblyTypeName: Map1, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -982,6 +985,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 2058559079}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 693577740388fb8469cd4a7d13ebc56e, type: 3}
+  m_Script: {fileID: 11500000, guid: 0d5e958709a02694ea3bb2eb2dccaa01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2058559085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2058559079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f50918e2774ea1844b434a13b34ef2e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  transferMapName: Map1

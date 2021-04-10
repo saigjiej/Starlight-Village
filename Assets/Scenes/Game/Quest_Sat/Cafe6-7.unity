@@ -175,6 +175,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -750,6 +751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -780,8 +782,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1525146172}
-        m_TargetAssemblyTypeName: SatQuest, Assembly-CSharp
-        m_MethodName: FinishQuest2
+        m_TargetAssemblyTypeName: FinishQuest6_2, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -838,7 +840,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1525146167}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd293de2bfa40e04f89cd570725e3a13, type: 3}
+  m_Script: {fileID: 11500000, guid: eaaa9dcddfc0dd64cb20d79f2127db45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1747633444
@@ -899,6 +901,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1747633447
 Canvas:
   m_ObjectHideFlags: 0

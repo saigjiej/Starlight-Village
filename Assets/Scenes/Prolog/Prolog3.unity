@@ -339,7 +339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb9169827e0c8724692dd925dbf3fb74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  txt: {fileID: 0}
+  txt: {fileID: 160282401}
 --- !u!1 &334161213
 GameObject:
   m_ObjectHideFlags: 0
@@ -1084,18 +1084,6 @@ MonoBehaviour:
       - m_Target: {fileID: 1938327571}
         m_TargetAssemblyTypeName: Prolog3, Assembly-CSharp
         m_MethodName: Click3
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1938327572}
-        m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
-        m_MethodName: StopMusic
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

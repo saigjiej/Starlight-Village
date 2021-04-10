@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class NewBehaviourScript : MonoBehaviour
+public class Prolog : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,8 +16,12 @@ public class NewBehaviourScript : MonoBehaviour
     {
         
     }
-    public void onClick()
+    public void Click()
     {
         SceneManager.LoadScene("Prolog1");
+    }
+    public void Click2()
+    {
+        SceneManager.LoadScene("StartProlog");
     }
 }

@@ -390,8 +390,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 480747829}
-        m_TargetAssemblyTypeName: GameStart, Assembly-CSharp
-        m_MethodName: Click
+        m_TargetAssemblyTypeName: Prolog, Assembly-CSharp
+        m_MethodName: Click2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -448,7 +448,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 480747824}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a822d4f441c79c488ff5c9c802e92a9, type: 3}
+  m_Script: {fileID: 11500000, guid: 4dd03282a1033ce44ab5562edf8494e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &945040775
@@ -536,7 +536,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 945040780}
-        m_TargetAssemblyTypeName: PrologStart, Assembly-CSharp
+        m_TargetAssemblyTypeName: Prolog, Assembly-CSharp
         m_MethodName: Click
         m_Mode: 1
         m_Arguments:
@@ -594,7 +594,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 945040775}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 4dd03282a1033ce44ab5562edf8494e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1067723907

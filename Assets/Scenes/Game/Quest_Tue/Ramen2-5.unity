@@ -177,6 +177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -207,8 +208,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 172424509}
-        m_TargetAssemblyTypeName: ChooseMenu, Assembly-CSharp
-        m_MethodName: Hot
+        m_TargetAssemblyTypeName: Ramen_Button2, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -265,7 +266,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 172424504}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25c1f58f77053474594e19c5bc37f5da, type: 3}
+  m_Script: {fileID: 11500000, guid: bf140342f1ba69045a5b091d96e31ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &414228843
@@ -918,6 +919,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -948,8 +950,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1686701381}
-        m_TargetAssemblyTypeName: ChooseMenu, Assembly-CSharp
-        m_MethodName: Hot
+        m_TargetAssemblyTypeName: Ramen_Button2, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1006,7 +1008,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1686701376}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25c1f58f77053474594e19c5bc37f5da, type: 3}
+  m_Script: {fileID: 11500000, guid: bf140342f1ba69045a5b091d96e31ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1716312991
@@ -1063,6 +1065,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1093,8 +1096,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1716312996}
-        m_TargetAssemblyTypeName: ChooseMenu, Assembly-CSharp
-        m_MethodName: Hot
+        m_TargetAssemblyTypeName: Ramen_Button2, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1151,7 +1154,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1716312991}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25c1f58f77053474594e19c5bc37f5da, type: 3}
+  m_Script: {fileID: 11500000, guid: bf140342f1ba69045a5b091d96e31ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1747633444
@@ -1212,6 +1215,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1747633447
 Canvas:
   m_ObjectHideFlags: 0
@@ -1467,6 +1471,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1497,8 +1502,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1902309578}
-        m_TargetAssemblyTypeName: ChooseMenu, Assembly-CSharp
-        m_MethodName: Hot
+        m_TargetAssemblyTypeName: Ramen_Button2, Assembly-CSharp
+        m_MethodName: Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1555,6 +1560,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1902309573}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25c1f58f77053474594e19c5bc37f5da, type: 3}
+  m_Script: {fileID: 11500000, guid: bf140342f1ba69045a5b091d96e31ecf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
